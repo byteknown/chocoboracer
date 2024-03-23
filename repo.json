@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "Moonhell",
+        "Name": "DL Gamba",
+        "Description": "Black Jack free Plugin",
+        "InternalName": "DLGamba",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/byteknown/chocoboracer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "minigames",
+            "discord"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/byteknown/chocoboracer/raw/main/ChocoboRacer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/byteknown/chocoboracer/raw/main/ChocoboRacer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/chocoboracer/raw/main/ChocoboRacer/latest.zip",
+        "LastUpdated": "08112023"
+    }
+
+]
