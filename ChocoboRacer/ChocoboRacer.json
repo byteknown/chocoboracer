@@ -1,0 +1,20 @@
+{
+  "Author": "Moonhell",
+  "Name": "ChocoboRacer",
+  "InternalName": "ChocoboRacer",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Open the main window using /gamba",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "player",
+    "venues",
+    "discord"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A plugin for Black Jack!",
+  "AcceptsFeedback": true
+}
