@@ -1,9 +1,9 @@
 [
     {
         "Author": "Moonhell",
-        "Name": "DL Gamba",
-        "Description": "Black Jack free Plugin",
-        "InternalName": "DLGamba",
+        "Name": "ChocoboRacer",
+        "Description": "chocoracer plugin",
+        "InternalName": "ChocoboRacer",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/byteknown/chocoboracer",
         "ApplicableVersion": "any",
